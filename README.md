@@ -1,8 +1,10 @@
 # IE522
 
->Course Infor
+>Course Information
 
 -Course Name: Statistical Methods in Finance
+
 -Time: Fall2020
+
 -Language: R
 
