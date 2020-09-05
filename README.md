@@ -1,2 +1,8 @@
-# UIUC-MSFE-FALL20-IE522
-This folder is made for IE522 homework backup.
+# IE522
+
+>Course Infor
+
+-Course Name: Statistical Methods in Finance
+-Time: Fall2020
+-Language: R
+
